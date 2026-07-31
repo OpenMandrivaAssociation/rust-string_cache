@@ -5,8 +5,8 @@
 %global crate string_cache
 
 Name:           rust-%{crate}
-Version:        0.7.3
-Release:        4%{?dist}
+Version:        0.10.0
+Release:        1%{?dist}
 Summary:        String interning library for Rust, developed as part of the Servo project
 
 # Upstream license specification: MIT / Apache-2.0
